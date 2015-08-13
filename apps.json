@@ -1,17 +1,3 @@
 {
 
-/*
- //This is an example app entry, please append yours to the end 
- 
- "https://mikehenrty.github.io/fxos-magnifier/manifest.webapp": {
- "manifestURL": "https://mikehenrty.github.io/fxos-magnifier/manifest.webapp",
- "name": "magnifier",
- "description": "Tap three times and hold to magnify the screen.",
- "icon": "http://mikehenrty.github.io/fxos-magnifier/style/icons/60.png",
- "author": "David Flanagan",
- "type": "addon",
- "url": "https://github.com/mikehenrty/fxos-magnifier",
- },
-*/
-
 }
