@@ -1,0 +1,30 @@
+{
+  "name": "fxos-addon-hackathon",
+  "description": "Download and rating for your favorite apps. This apps only for addon hackathon event",
+  "developer": {
+    "name": "Hackathon Team"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Hackathon Addon",
+      "description": "Download and rating for your favorite apps. This apps only for addon hackathon event"
+    }
+  },
+  "default_locale": "en-US",
+  "package_path": "application.zip",
+  "role": "addon",
+  "type": "certified",
+  "customizations": [
+    {
+      "filter": "app://directory.gaiamobile.org/",
+      "scripts": [
+        "main.js"
+      ]
+    }
+  ],
+  "icons": {
+    "128": "/icons/128.png",
+    "256": "/icons/256.png",
+    "512": "/icons/512.png"
+  }
+}
